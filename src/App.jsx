@@ -94,7 +94,7 @@ export default function App() {
     () => [
       {
         title: "أول مرة اتقابلنا RANIA❤️ ",
-        date: "2025-08-29",
+        date: "2026-02-13",
         text: "اليوم اللي بدأت فيه أجمل حكاية بينا.",
       },
       {
@@ -137,7 +137,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    const startDate = new Date("2025-08-29T00:00:00");
+    const startDate = new Date("2026-02-13T00:00:00");
 
     const updateCounter = () => {
       const now = new Date().getTime();
@@ -269,7 +269,7 @@ export default function App() {
 
         <div className="password-card glass">
           <div className="password-top-image">
-            <img src="/profile.jpg" alt="منة" />
+            <img src="/profile.jpg" alt="رانيا" />
             <div className="password-image-overlay"></div>
           </div>
 
